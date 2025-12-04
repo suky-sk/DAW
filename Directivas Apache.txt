@@ -1,0 +1,5 @@
+## Directivas de Apache
+- DocumentRoot
+- DirectoryIndex
+- ErrorLog
+- <Directory> ... </Directory>
